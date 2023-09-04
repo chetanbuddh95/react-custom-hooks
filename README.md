@@ -1,3 +1,14 @@
+# Chetan Buddh: React Custom Hooks
+
+### Hooks
+
+React Hooks are a feature introduced in React version 16.8 that revolutionized the way developers write and manage stateful logic in functional components. Previously, stateful logic could only be implemented in class components using lifecycle methods. However, with React Hooks, developers can now utilize state and other React features directly in functional components. Hooks provide a way to easily reuse stateful logic across multiple components, improving code reusability and reducing complexity. They enable developers to break down complex components into smaller, more manageable pieces, resulting in cleaner and more maintainable code. Hooks, such as useState and useEffect, allow developers to manage component state and handle side effects effortlessly. With their simplicity and flexibility, React Hooks have become an essential tool for building modern, efficient, and scalable React applications.
+
+- [`useCopyToClipboard`](https://github.com/chetanbuddh95/react-custom-hooks/blob/main/src/hooks/useCopyToClipboard.jsx)
+
+- [`usePrevious`](https://github.com/chetanbuddh95/react-custom-hooks/blob/main/src/hooks/usePrevious.jsx)
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
